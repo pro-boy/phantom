@@ -30,19 +30,17 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I am a Group Manager Bot Maintained by 
-
-[THIS LEGEND](tg://user?id={}).
+I am a Group Manager Bot Maintained by [THIS LEGEND](tg://user?id={}).
 
 Press Help for commands  /help
 
 I am completely open source
 
-MY source code is available to you
+My source code is available to you [HERE](https://github.com/zainulhibath/phantom)
 
-[HERE](https://github.com/zainulhibath/phantom)
+Join @Escrow_Dealers_Group for trusted deals
 
-Join @ZainsProject to learn more about Bots and programming
+Join @ZainsProjects to learn more about Bots and programming
 
 """
 
