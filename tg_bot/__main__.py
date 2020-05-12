@@ -40,7 +40,7 @@ I am completely open source
 
 MY source code is available to you
 
-[HERE](https://github.com/zainulhibath24/phantom)
+[HERE](https://github.com/zainulhibath/phantom)
 
 Join @ZainsProject to learn more about Bots and programming
 
