@@ -38,6 +38,8 @@ I am completely open source
 
 My source code is available to you [HERE](https://github.com/zainulhibath/phantom)
 
+Join @coolercommunity ( support group) 
+
 Join @ZainsProjects to learn more about Bots and programming
 
 """
