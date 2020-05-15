@@ -38,8 +38,6 @@ I am completely open source
 
 My source code is available to you [HERE](https://github.com/zainulhibath/phantom)
 
-Join @Escrow_Dealers_Group for trusted deals
-
 Join @ZainsProjects to learn more about Bots and programming
 
 """
