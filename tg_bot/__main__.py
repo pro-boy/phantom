@@ -30,17 +30,13 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I am a Group Manager Bot Maintained by [THIS LEGEND](tg://user?id={}).
+I am a group management bot With Some Special Features.
+To add me to your group click ["HERE"](t.me/Aniebot?startgroup=botstart)
+You can find my list of available commands with /help.
+ 
+See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
+The support group chat is at @AnieSupport. Support Channel @AnieNews
 
-Press Help for commands  /help
-
-I am completely open source
-
-My source code is available to you [HERE](https://github.com/zainulhibath/phantom)
-
-Join @coolercommunity ( support group) 
-
-Join @ZainsProjects to learn more about Bots and programming
 
 """
 
