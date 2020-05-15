@@ -28,9 +28,11 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello    {}, My Name Is {} ! 
+Hello    {}, My Name Is {} !
 
-I am a Group Manager Bot Maintained by [This Person](tg://user?id={}).
+I Am A Group Manager Bot Maintained By
+
+[This Person](tg://user?id={}).
 
 I am a group management bot With Some Special Features.
 To add me to your group click ["HERE"](t.me/Aniebot?startgroup=botstart)
@@ -38,7 +40,6 @@ You can find my list of available commands with /help.
  
 See [Basic Configuration Checklist](t.me/Anienews/3) on how to secure your group.
 The support group chat is at @AnieSupport. Support Channel @AnieNews
-
 
 """
 
