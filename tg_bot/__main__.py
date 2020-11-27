@@ -30,13 +30,22 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I Am A Group Manager Bot Maintained By [This Person](tg://user?id={}).
+I Am A Alexa Group Manager Bot Maintained By [This Person](tg://user?id={}).
 
-I am a group management bot With Some Special Features.
-To add me to your group click the below button 👇
-You can find my list of available commands with /help.
+I am a group management bot With Advanced Features.
+
+• I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL-x banning system which safegaurds and helps your group from spammers.
+
+• If You want A healthy And Save Group From Spammer Then Add me Their I Will Help You.
+Hit This --> /help To See my available commands.
+ To add me to your group click the below button 👇
+
+
+
+-> [Support Group](https://t.me/AlexasupportGroup)
+-> [Support channel](https://t.me/Alexasupportchannel)
  
-The support group chat is at @ZainsTechChat. Support Channel @ZainsProjects
+
 
 
 """
